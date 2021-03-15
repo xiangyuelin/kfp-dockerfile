@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/api-server:1.4.1
+FROM gcr.io/ml-pipeline/application-crd-controller:1.0-beta-non-cluster-role
