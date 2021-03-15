@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/application-crd-controller:1.0-beta-non-cluster-role
+FROM gcr.io/ml-pipeline/inverse-proxy-agent:1.4.1
