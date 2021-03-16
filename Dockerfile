@@ -1,1 +1,1 @@
-FROM gcr.io/tfx-oss-public/ml_metadata_store_server:0.25.1
+FROM gcr.io/ml-pipeline/minio:RELEASE.2019-08-14T20-37-41Z-license-compliance
